@@ -16,6 +16,6 @@
 
 - :zap: Являюсь студентом РУДН по специальности математика.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-balashovaliza-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lizo4kaaa_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:li.balashova03@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-liza-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lizo4kaaa_1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:li.balashova03@gmail.com)
 
 ---
